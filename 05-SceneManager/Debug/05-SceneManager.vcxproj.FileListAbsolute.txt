@@ -1,0 +1,2 @@
+E:\game\mariogame\05-SceneManager\Debug\05-SceneManager.vcxproj.CopyComplete
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Debug\05-SceneManager.vcxproj.CopyComplete

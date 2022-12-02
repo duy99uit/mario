@@ -1,0 +1,43 @@
+﻿  Animations.cpp
+  Block.cpp
+  Brick.cpp
+  Coin.cpp
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Coin.h(37,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Collision.cpp
+  debug.cpp
+  Game.cpp
+  GameObject.cpp
+  Goomba.cpp
+  Koopas.cpp
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Koopas.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Coin.h(37,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Map.cpp
+  Mario.cpp
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Coin.h(37,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Mario.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  Mushroom.cpp
+  PlayScene.cpp
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Coin.h(37,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(354,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(362,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(363,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(364,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(365,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(359,28): warning C4101: 'my': unreferenced local variable
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(359,24): warning C4101: 'mx': unreferenced local variable
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\PlayScene.cpp(410,20): warning C4018: '<': signed/unsigned mismatch
+  Portal.cpp
+  SampleKeyEventHandler.cpp
+  QuestionBrick.cpp
+C:\Users\duy\Documents\GitHub\mario\05-SceneManager\Coin.h(37,52): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  PiranhaPlant.cpp
+  PiranhaPlantFire.cpp
+  Generating Code...
+  Compiling...
+  Sprites.cpp
+  Textures.cpp
+  Utils.cpp
+  Generating Code...
+  05-SceneManager.vcxproj -> C:\Users\duy\Documents\GitHub\mario\Debug\05-SceneManager.exe
